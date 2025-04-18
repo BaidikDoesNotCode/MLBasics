@@ -2,6 +2,7 @@
 Personal repository to track my ML progress. One project at a time.
 
 **_Project#1_**
+
 _Housing Price Predictor_
 SKlearn, Matplotlib, Seaborn and Pandas.
 Approach:
